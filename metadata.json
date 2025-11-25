@@ -1,0 +1,7 @@
+{
+  "name": "Okuma Arkadaşım",
+  "description": "A children's reading practice app powered by AI to generate stories, analyze reading fluency, and reward progress with custom coloring pages.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
